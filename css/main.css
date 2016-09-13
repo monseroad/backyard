@@ -1,0 +1,72 @@
+.logo2{
+	width: 40%;
+	margin-top: 3%;
+	margin-left: 60%;
+}
+
+.menu{
+    margin-left: 70%;
+    margin-top: -2.5%;
+}
+
+a{
+	margin: 1%;
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+	color: #a2798f;
+}
+.beautiful{
+	background-color: #a2798f;
+	width: 100%;
+	height: 400%;
+	padding-bottom: 15%;
+}
+h1{
+	font-family: 'Roboto', sans-serif;
+	font-size: 300%; 
+	color: #d7c6cf;
+	margin-left: 40%;
+	margin-top: 10%;
+}
+p{
+	font-family: 'Roboto', sans-serif;
+	color: #d7c6cf;
+	margin-top: 10%;
+	margin-left: 40%;
+}
+h2{
+	font-family: 'Roboto', sans-serif;
+	color: #d7c6cf;
+}
+.starter{
+	/*margin-left: 40%;
+	padding-top: 40%;*/
+	background-color: #dfdfde;
+}
+.suscribe{
+	background-color: #8caba8;
+	padding: 1% 7%;
+	border-radius: 5px;
+	font-size: 120%;
+}
+.formulario{
+	margin-top: 30%;
+	margin-left: 40%;
+}
+/*Media Query*/
+
+@media (min-width: 320px) and (max-width: 375px) {
+h1{
+	font-size: 40px;
+}
+}
+
+@media (min-width: 376px) and (max-width: 667px) {
+h1{
+	font-size: 80px;
+}
+}
+
+@media (min-width: 667px) and (max-width: 1024px) {}
+
+@media (min-width: 1024px) and (min-width: 1600px) {}
